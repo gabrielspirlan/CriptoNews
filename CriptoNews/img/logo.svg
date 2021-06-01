@@ -18,7 +18,27 @@
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="679.71057"
+       y="-14.630541"
+       width="71.323889"
+       height="41.4532"
+       id="rect845" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter873"
+       x="-5.9126086e-07"
+       width="1.0000012"
+       y="-3.6992877e-06"
+       height="1.0000074">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.00010656228"
+         id="feGaussianBlur875" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,18 +46,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30690102"
-     inkscape:cx="1476.992"
-     inkscape:cy="540.35028"
+     inkscape:zoom="0.43402358"
+     inkscape:cx="1962.3395"
+     inkscape:cy="532.71682"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1512"
-     inkscape:window-height="1041"
-     inkscape:window-x="341"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -54,150 +74,289 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:#00457a;fill-opacity:1;stroke:none;stroke-width:5.369;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:#00457a;fill-opacity:1;stroke:none;stroke-width:5.36901;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="path34"
        sodipodi:type="arc"
-       sodipodi:cx="341.45078"
-       sodipodi:cy="140.39752"
-       sodipodi:rx="96.018036"
+       sodipodi:cx="337.57129"
+       sodipodi:cy="146.00125"
+       sodipodi:rx="96.018066"
        sodipodi:ry="96.018036"
        sodipodi:start="5.3965406"
        sodipodi:end="5.3925438"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
-       d="M 402.13569,65.987815 A 96.018036,96.018036 0 0 1 415.92108,201.00806 96.018036,96.018036 0 0 1 280.91468,214.92835 96.018036,96.018036 0 0 1 266.85949,79.935931 96.018036,96.018036 0 0 1 401.8378,65.745865"
+       d="M 398.25622,71.591545 A 96.018066,96.018036 0 0 1 412.04162,206.61178 96.018066,96.018036 0 0 1 277.03518,220.53208 96.018066,96.018036 0 0 1 262.97998,85.53966 96.018066,96.018036 0 0 1 397.95834,71.349594"
        inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538" />
+       inkscape:export-xdpi="14.001697"
+       inkscape:export-ydpi="14.001697" />
     <circle
        style="fill:#008efa;fill-opacity:1;stroke:none;stroke-width:4.74606;stroke-linecap:square;stroke-opacity:1;paint-order:markers stroke fill"
        id="path34-0"
        sodipodi:type="arc"
-       sodipodi:cx="341.25339"
-       sodipodi:cy="140.98991"
-       sodipodi:rx="84.875931"
+       sodipodi:cx="337.3739"
+       sodipodi:cy="146.59364"
+       sodipodi:rx="84.875954"
        sodipodi:ry="84.875931"
        sodipodi:start="5.3965406"
        sodipodi:end="5.3925438"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
-       d="M 394.89632,75.214843 A 84.875931,84.875931 0 0 1 407.08203,194.56709 84.875931,84.875931 0 0 1 287.74201,206.87205 84.875931,84.875931 0 0 1 275.31781,87.544394 84.875931,84.875931 0 0 1 394.633,75.000969"
+       d="M 391.01684,80.818572 A 84.875954,84.875931 0 0 1 403.20256,200.17082 84.875954,84.875931 0 0 1 283.86251,212.47578 84.875954,84.875931 0 0 1 271.43831,93.148123 84.875954,84.875931 0 0 1 390.75353,80.604698"
        inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538" />
+       inkscape:export-xdpi="14.001697"
+       inkscape:export-ydpi="14.001697" />
+    <g
+       id="g1074"
+       transform="translate(0.60960589,1.8288177)"
+       inkscape:export-xdpi="14.001697"
+       inkscape:export-ydpi="14.001697">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.4223px;line-height:1.25;font-family:Staatliches;-inkscape-font-specification:Staatliches;opacity:0.996;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.41058;stroke-opacity:1;filter:url(#filter873)"
+         x="653.21912"
+         y="266.56851"
+         id="text1134-1"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logocomtxt.png"
+         inkscape:export-xdpi="16.31769"
+         inkscape:export-ydpi="16.31769"
+         transform="matrix(0.78070942,0,0,1.2808863,-68.27586,-154.23029)"><tspan
+           sodipodi:role="line"
+           id="tspan1132-1"
+           x="653.21912"
+           y="266.56851"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Staatliches;-inkscape-font-specification:Staatliches;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.41058;stroke-opacity:1">CryptoNews</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96.4223px;line-height:1.25;font-family:Staatliches;-inkscape-font-specification:Staatliches;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.41058;stroke-opacity:1"
+         x="570.45581"
+         y="145.98488"
+         id="text1134"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logocomtxt.png"
+         inkscape:export-xdpi="16.31769"
+         inkscape:export-ydpi="16.31769"
+         transform="scale(0.78070942,1.2808863)"><tspan
+           sodipodi:role="line"
+           id="tspan1132"
+           x="570.45581"
+           y="145.98488"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Staatliches;-inkscape-font-specification:Staatliches;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.41058;stroke-opacity:1">CryptoNews</tspan></text>
+    </g>
+    <g
+       id="g1012"
+       style="fill:#000000;fill-opacity:1"
+       inkscape:export-xdpi="14.001697"
+       inkscape:export-ydpi="14.001697">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.48114;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6-5-6"
+         width="24.575949"
+         height="7.6332169"
+         x="-115.2975"
+         y="296.62534"
+         inkscape:transform-center-x="-1.9885367"
+         inkscape:transform-center-y="-0.54306113"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.32169;stroke-linecap:square;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136"
+         width="22.764341"
+         height="7.5031095"
+         x="252.56328"
+         y="144.1512"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.44844;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6"
+         width="24.116205"
+         height="7.633215"
+         x="397.49261"
+         y="136.65602"
+         inkscape:transform-center-x="-0.53287778"
+         inkscape:transform-center-y="1.9885554"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.44022;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9"
+         width="23.951544"
+         height="7.6490631"
+         x="397.48468"
+         y="151.65431"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.36989;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6-5"
+         width="23.030222"
+         height="7.6332169"
+         x="-113.75178"
+         y="307.98618"
+         inkscape:transform-center-x="-1.9885632"
+         inkscape:transform-center-y="-0.50890403"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.48114;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6-5-6-5"
+         width="24.575949"
+         height="7.6332169"
+         x="-204.74246"
+         y="296.62534"
+         inkscape:transform-center-x="-1.9885367"
+         inkscape:transform-center-y="-0.54306112"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.36989;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6-5-5"
+         width="23.030222"
+         height="7.6332169"
+         x="-204.5789"
+         y="307.98618"
+         inkscape:transform-center-x="-1.9885632"
+         inkscape:transform-center-y="-0.50890404"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.6169px;line-height:52.4731;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.21541"
+         x="338.57458"
+         y="181.21884"
+         id="text60"
+         transform="scale(0.99843406,1.0015684)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035"><tspan
+           sodipodi:role="line"
+           id="tspan58"
+           x="338.57458"
+           y="181.21884"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:2.21541">CN</tspan></text>
+    </g>
     <rect
-       style="fill:#ededed;fill-opacity:0.941176;stroke:none;stroke-width:3.48115;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
-       id="rect1136-9-6-5-6"
-       width="24.575949"
-       height="7.6332145"
-       x="-109.69376"
-       y="300.50485"
-       inkscape:transform-center-x="-1.9885553"
-       inkscape:transform-center-y="-0.54306026"
-       transform="rotate(-90)"
-       inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538" />
-    <rect
-       style="fill:#ededed;fill-opacity:0.941176;stroke:none;stroke-width:3.3217;stroke-linecap:square;stroke-opacity:0.87451;paint-order:markers stroke fill"
-       id="rect1136"
-       width="22.764334"
-       height="7.5031095"
-       x="256.44278"
-       y="138.54747"
-       inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538" />
-    <rect
-       style="fill:#ededed;fill-opacity:0.941176;stroke:none;stroke-width:3.44844;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
-       id="rect1136-9-6"
-       width="24.116198"
-       height="7.6332145"
-       x="401.3721"
-       y="131.05229"
-       inkscape:transform-center-x="-0.53290177"
-       inkscape:transform-center-y="1.988556"
-       inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:73.8151px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ededed;fill-opacity:0.941176;stroke:#000000;stroke-width:1.84538;stroke-opacity:1"
-       x="648.94934"
-       y="119.18124"
-       id="text1134"
-       inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logocomtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538"
-       transform="scale(0.67726234,1.4765327)"><tspan
-         sodipodi:role="line"
-         id="tspan1132"
-         x="648.94934"
-         y="119.18124"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ededed;fill-opacity:0.941176;stroke:#000000;stroke-width:1.84538;stroke-opacity:1">CryptoNews</tspan></text>
-    <rect
-       style="fill:#ededed;fill-opacity:0.941176;stroke:none;stroke-width:3.44021;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
-       id="rect1136-9"
-       width="23.951536"
-       height="7.6490631"
-       x="401.36417"
-       y="146.05058"
-       inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538" />
-    <rect
-       style="fill:#ededed;fill-opacity:0.941176;stroke:none;stroke-width:3.3699;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
-       id="rect1136-9-6-5"
-       width="23.030222"
-       height="7.6332145"
-       x="-108.14803"
-       y="311.86566"
-       inkscape:transform-center-x="-1.9885553"
-       inkscape:transform-center-y="-0.50890317"
-       transform="rotate(-90)"
-       inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538" />
-    <rect
-       style="fill:#ededed;fill-opacity:0.941176;stroke:none;stroke-width:3.48115;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
-       id="rect1136-9-6-5-6-5"
-       width="24.575949"
-       height="7.6332145"
-       x="-199.13873"
-       y="300.50485"
-       inkscape:transform-center-x="-1.9885553"
-       inkscape:transform-center-y="-0.54306026"
-       transform="rotate(-90)"
-       inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538" />
-    <rect
-       style="fill:#ededed;fill-opacity:0.941176;stroke:none;stroke-width:3.3699;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
-       id="rect1136-9-6-5-5"
-       width="23.030222"
-       height="7.6332145"
-       x="-198.97517"
-       y="311.86566"
-       inkscape:transform-center-x="-1.9885553"
-       inkscape:transform-center-y="-0.50890317"
-       transform="rotate(-90)"
-       inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.6168px;line-height:52.4731;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';text-align:center;text-anchor:middle;fill:#ededed;fill-opacity:0.939759;stroke:none;stroke-width:2.21542"
-       x="342.46027"
-       y="175.62389"
-       id="text60"
-       transform="scale(0.99843406,1.0015684)"
-       inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
-       inkscape:export-xdpi="32.63538"
-       inkscape:export-ydpi="32.63538"><tspan
-         sodipodi:role="line"
-         id="tspan58"
-         x="342.46027"
-         y="175.62389"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';text-align:center;text-anchor:middle;fill:#ededed;fill-opacity:0.939759;stroke-width:2.21542">CN</tspan></text>
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="rect999"
+       width="71.933495"
+       height="28.651476"
+       x="507.19211"
+       y="-56.08374" />
+    <g
+       id="g1012-0"
+       transform="translate(0,-4.7625002)"
+       inkscape:export-xdpi="14.001697"
+       inkscape:export-ydpi="14.001697">
+      <rect
+         style="fill:#fffdfd;fill-opacity:1;stroke:none;stroke-width:3.48114;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6-5-6-4"
+         width="24.575949"
+         height="7.6332169"
+         x="-115.2975"
+         y="296.62534"
+         inkscape:transform-center-x="-1.9885367"
+         inkscape:transform-center-y="-0.54306113"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.32169;stroke-linecap:square;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-0"
+         width="22.764341"
+         height="7.5031095"
+         x="252.56328"
+         y="144.1512"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#fffafa;fill-opacity:1;stroke:none;stroke-width:3.44844;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6-0"
+         width="24.116205"
+         height="7.633215"
+         x="397.49261"
+         y="136.65602"
+         inkscape:transform-center-x="-0.53287778"
+         inkscape:transform-center-y="1.9885554"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.44022;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-5"
+         width="23.951544"
+         height="7.6490631"
+         x="397.48468"
+         y="151.65431"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#fffdfd;fill-opacity:1;stroke:none;stroke-width:3.36989;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6-5-7"
+         width="23.030222"
+         height="7.6332169"
+         x="-113.75178"
+         y="307.98618"
+         inkscape:transform-center-x="-1.9885632"
+         inkscape:transform-center-y="-0.50890403"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.48114;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6-5-6-5-4"
+         width="24.575949"
+         height="7.6332169"
+         x="-204.74246"
+         y="296.62534"
+         inkscape:transform-center-x="-1.9885367"
+         inkscape:transform-center-y="-0.54306112"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.36989;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87451;paint-order:markers stroke fill"
+         id="rect1136-9-6-5-5-6"
+         width="23.030222"
+         height="7.6332169"
+         x="-204.5789"
+         y="307.98618"
+         inkscape:transform-center-x="-1.9885632"
+         inkscape:transform-center-y="-0.50890404"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.6169px;line-height:52.4731;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.21541"
+         x="338.57458"
+         y="181.21884"
+         id="text60-4"
+         transform="scale(0.99843406,1.0015684)"
+         inkscape:export-filename="C:\Users\somaisumpouquinhohd\Desktop\logosemtxt.png"
+         inkscape:export-xdpi="39.680035"
+         inkscape:export-ydpi="39.680035"><tspan
+           sodipodi:role="line"
+           id="tspan58-6"
+           x="338.57458"
+           y="181.21884"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft YaHei UI';-inkscape-font-specification:'Microsoft YaHei UI Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:2.21541">CN</tspan></text>
+    </g>
   </g>
 </svg>
