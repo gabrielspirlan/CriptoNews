@@ -1,9 +1,10 @@
 /* @import, quando existem, devem ser o primeiro item de um arquivo CSS */
-@import url ('https://fonts.googleapis.com/css2? family = Roboto & display = swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 /* Definição de variáveis */
 :root {
-    --cor-primaria: rgb(10, 10, 136);
-    --cor-secundaria: #7472cf;
+    --cor-primaria: #008EFA;
+    --cor-secundaria: #00457A;
+    --cor-titulo: #0071C7;
     --cor-secundaria-clara:#d8e9f7;
     --cor-fundo-clara: #DDDDDD;
     --cor-fundo-escura: #BBBBBB;
@@ -25,7 +26,7 @@
     font-family: Consolas, 'Courier New', monospace; */
 
     /* Família de fontes da web (webfonts) */
-    font-family: Raleway, Calibri, Arial, sans;
+    font-family: 'Roboto', Calibri, Arial, sans;
     font-size: 16px;
     /* Faz com que bordas e margens sejam considerados no tamanho total do elemento */
     box-sizing: border-box;
@@ -37,7 +38,7 @@ html {                  /* Tamanho de fonte padrão do documento */
 
 /* Configuração de todos os links do site */
 a {
-    color: var(--cor-primaria);
+    color: var(--cor-titulo);
     text-decoration: none;  /* Sem sublinhado */
 }
 
@@ -167,7 +168,9 @@ main, aside {
     flex-grow: 1;   /* 1 unidade de largura (padrão) */
     max-width: 100%;
 }
-
+#bitcoin {
+    margin-top: 10px;
+}
 main {
     width: 75%;
 }
