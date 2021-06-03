@@ -1,15 +1,17 @@
 /* @import, quando existem, devem ser o primeiro item de um arquivo CSS */
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 /* Definição de variáveis */
 :root {
+        /*#d8e9f7; #BBBBBB*/
     --cor-primaria: #008EFA;
     --cor-secundaria: #00457A;
     --cor-titulo: #0071C7;
     --cor-secundaria-clara:#d8e9f7;
-    --cor-fundo-clara: #DDDDDD;
-    --cor-fundo-escura: #BBBBBB;
-    --cor-texto-claro: #FFFFFF;
-    --cor-texto-escura: #444444;
+    --cor-fundo-clara: #ececec;
+    --cor-fundo-escura: #d0dce6;
+    --cor-texto-claro: #fafafa;
+    --cor-texto-escura: #333;
 }
 
 /* CSS reset */
@@ -26,7 +28,7 @@
     font-family: Consolas, 'Courier New', monospace; */
 
     /* Família de fontes da web (webfonts) */
-    font-family: 'Roboto', Calibri, Arial, sans;
+    font-family: 'Poppins', Calibri, Arial, sans;
     font-size: 16px;
     /* Faz com que bordas e margens sejam considerados no tamanho total do elemento */
     box-sizing: border-box;
@@ -215,7 +217,7 @@ article > h2 {
 }
 
 .destaque p {
-    color: #000000;
+    color: #333;
     font-size: 1.5rem;
 }
 
@@ -238,6 +240,7 @@ article > h2 {
 .foto-texto {
     display: flex;
     flex-direction: row; /* Os filhos ficarão em linha, na horizontal */
+    margin-bottom: 20px;
 }
 
 .individual h1 {
@@ -265,6 +268,29 @@ article > h2 {
     margin: 12px 0 36px 0;
     font-size: 1.2rem;
     font-weight: bold;
+}
+
+#destaque-noticia {
+    color: var(--cor-texto-escura);
+    text-align: center;
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    text-transform: unset;
+}
+
+figure {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+figcaption {
+    color: var(--cor-texto-escura);
+    font-size: 0.9rem;
+}
+
+#titulo-secundario {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
 }
 
 aside > article > img {
@@ -313,10 +339,13 @@ footer ul li:last-child {
 }
 
 footer img {
-    width: 200px;
+    width: 220px;
     height: 100%;
 }
 
+blockquote {
+    text-align: right;
+}
 /* Regras para larguras específicas de tela */
 @media screen and (max-width: 1020px) {  /* Breakpoint (ponto de quebra) */
     main {
